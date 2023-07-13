@@ -2,5 +2,5 @@
 Deep learning model for eye diseases prediction
 
 
-#Dataset link
-Dataset: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+# Dataset link
+Dataset Link: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
